@@ -58,6 +58,8 @@ This PHP Class used for preventing Denial of Service (DoS) attack to your web se
 
 ## 5. Monitoring
 
+- Only in Codecanyon Package. Buy on Codecanyon to get <code>monitor.php</code> script to monitoring. [http://codecanyon.net/item/php-dosdetector-class/4899130](http://codecanyon.net/item/php-dosdetector-class/4899130)
+
 - This package came with a standalone script to monitor the traffic (logged by DosDtector class). You can put this script anywhere on your web server (with PHP read permission), and run this script from browser to access monitor tool. Example: http://yoursite.com/monitor.php.
 
 - This page will show all the request (with IP Address, Time, User-Agent, Cookie status, Request URI, Referer URL) logged by DosDetector. Logged Accesses will be cached for 2 hours for performance.

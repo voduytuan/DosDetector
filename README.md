@@ -71,4 +71,4 @@ This PHP Class used for preventing Denial of Service (DoS) attack to your web se
 
 ## Thank you!
 
-- Support me by buying at (http://codecanyon.net/item/php-dosdetector-class/4899130)
+- Support me by buying this package at (http://codecanyon.net/item/php-dosdetector-class/4899130). Full package include PHP Class, Example and Standalone Monitoring & Setup Support.
